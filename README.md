@@ -9,6 +9,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S1053811919302642
 
 The function was created as part of this work, and it was used to generate Figure 2, panel 1 from the paper, reproduced below.
 
+[![View plot-corrmat on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/73845-plot-corrmat)
 
 ## Examples
 
