@@ -11,6 +11,9 @@ The function was created as part of this work, and it was used to generate Figur
 
 [![View plot-corrmat on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/73845-plot-corrmat)
 
+If you find plot-corrmat useful and would like to support its continued development, feel free to send a cup of coffee! :) <br><br>
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/ElliotLayden?locale.x=en_US)
+
 ## Examples
 
 ### Layden et al. (2019) - Figure 2
